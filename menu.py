@@ -1,4 +1,3 @@
-import sys
 from datetime import datetime
 inf_loop = True
 inp_choise = 0
